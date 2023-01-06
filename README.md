@@ -9,4 +9,4 @@ Hello👋
 ✯ Please Enter /view command and you'll get magnet link as well as link to torrent file 😌
 
 
-For help telegram.in/yeezyX
+For help https://t.me/yeezyX
