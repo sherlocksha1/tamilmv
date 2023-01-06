@@ -8,4 +8,5 @@ Hello👋
 
 ✯ Please Enter /view command and you'll get magnet link as well as link to torrent file 😌
 
-Share and Support💝
+
+For help telegram.in/yeezyX
